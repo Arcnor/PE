@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PE.iml" filepath="$PROJECT_DIR$/.idea/PE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PE.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PE.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PE.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PE.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/pecoff4j.iml" filepath="$PROJECT_DIR$/pecoff4j.iml" />
     </modules>
   </component>
 </project>
-

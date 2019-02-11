@@ -1,6 +1,7 @@
 out
-.idea/workspace.xml
+/.idea/
+*.iml
 lib.fetched
-build/.m2
+/build/
 lib.fetched
 
